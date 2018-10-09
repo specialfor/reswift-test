@@ -1,0 +1,25 @@
+PODS:
+  - ReSwift (4.0.1)
+  - ReSwiftRouter (0.6.0):
+    - ReSwift (~> 4.0.0)
+  - SnapKit (4.0.1)
+
+DEPENDENCIES:
+  - ReSwift (~> 4.0.0)
+  - ReSwiftRouter (~> 0.6.0)
+  - SnapKit (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ReSwift
+    - ReSwiftRouter
+    - SnapKit
+
+SPEC CHECKSUMS:
+  ReSwift: f4012c613e13da7398827fe5aebdb938eaed40a3
+  ReSwiftRouter: 81f41b37a5dd1c88e1d3d10a660ff2dcc939ba7c
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+
+PODFILE CHECKSUM: e48909eb4eee4ead844dad64e4265c1e5351ba42
+
+COCOAPODS: 1.5.3
